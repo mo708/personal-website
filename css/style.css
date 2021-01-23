@@ -24,7 +24,7 @@ nav {
  justify-content: space-between;
  align-items:center;
  height:60px;
- background-color:transparent;
+ background-image:url("../images/project\ in\ your\ mind.png");
  box-shadow:2px 2px 12px rgba(0,0,0,0.2);
  padding:0px 5%;
  opacity:0.8;
@@ -38,7 +38,7 @@ nav ul{
 nav ul li a{
  margin:30px;
  font-family:myriad pro regular;
- color:#505050;
+ color:#9b9898e8;
  font-size: 15px;
  font-weight:700;
 }
@@ -52,11 +52,11 @@ nav ul li a:hover{
 }
 .logo{
  font-family:RoadTest;
- color:#000000;
+ color:#ffffff;
  font-size: 22px;
 }
 .active{
- color:#2d2a2a;
+ color:#ffffff;
  font-weight:bold;
 }
 .model{
